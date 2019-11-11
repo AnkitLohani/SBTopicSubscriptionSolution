@@ -1,0 +1,10 @@
+﻿
+ProjectreceiveTopicConApp
+
+Reference
+1. System.configuration
+
+Nuget Packages
+  1.	Install-package newtonsoft.json
+  2.	Install-package windowsazure.ServiceBus
+  3.	Install-package Microsoft.Windowsazure.ConfigurationManager
